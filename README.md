@@ -33,7 +33,6 @@
 
 이런 대답이 아닌 수치에 기반한 답변을 조금은 할 수 있게 되지 않았나 싶다. 
 
-"
 ## Future study plan
 
 1. 대규모 데이터를 효율적으로 다룰 수 있는 방법에 대해 공부할 계획입니다. - Santander Recommandation
